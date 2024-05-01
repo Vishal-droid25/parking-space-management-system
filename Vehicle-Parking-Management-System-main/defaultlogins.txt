@@ -1,0 +1,4 @@
+** IF DATABASE IS CREATED USING DATABASE SQL FILE THESE WILL BE DEFAULT CREDENTIALS **
+
+username : admin
+password : password
